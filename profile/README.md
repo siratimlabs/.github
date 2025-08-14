@@ -1,13 +1,11 @@
-# 👁️‍🗨️ AmrVisTech
+# 👁️‍🗨️ Siratim Labs
 
-**Adaptable. Visionary. Impactful.**
+**Connection. Visionary. Impactful.**
 
-Welcome to **AmrVisTech**, a software development organization built on versatility, vision, and technical excellence.  
+Welcome to **Siratim Labs**, a software development organization built on versatility, vision, and technical excellence.  
 Our name reflects our mission:
 
-- **Amr** — Command, directive, purpose.  
-- **Vis** — Vision. Foresight into meaningful digital solutions.  
-- **Tech** — Technology. Our medium of innovation.
+> To connect the world with global solutions.
 
 ## 💼 What We Do
 
