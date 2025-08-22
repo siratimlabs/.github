@@ -41,7 +41,7 @@ We partner with businesses, startups, and organizations to deliver:
 Have a project in mind?  
 We’re open to partnerships, freelance contracts, and ongoing collaborations.
 
-📫 Reach us at: **[amrvistech@gmail.com](mailto:amrvistech@gmail.com)**  
+📫 Reach us at: **[siratim.hq@gmail.com](mailto:siratim.hq@gmail.com)**  
 🌐 Website coming soon…
 
 ---
